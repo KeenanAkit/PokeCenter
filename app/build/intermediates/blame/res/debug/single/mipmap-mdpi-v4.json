@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/pokecenter.png",
+        "source": "/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/src/main/res/mipmap-mdpi/pokecenter.png"
+    },
+    {
+        "merged": "/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

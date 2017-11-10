@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="1471132650443892000"
+    token="5683196790313785862" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="1471130897490581000" >
+        <artifact
+            location="/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1471131392487629000"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="1471132584548859000" >
+        <artifact
+            location="/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="1471132650443892000" >
+        <artifact
+            location="/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

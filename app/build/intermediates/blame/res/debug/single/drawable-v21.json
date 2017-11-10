@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/keenan/.android/build-cache/1870057b1cc6dcf15b1ae39590dd7409dfd0d73e/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/keenan/.android/build-cache/1870057b1cc6dcf15b1ae39590dd7409dfd0d73e/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/Users/keenan/AndroidStudioProjects/PokeCenterMaster/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/keenan/.android/build-cache/1870057b1cc6dcf15b1ae39590dd7409dfd0d73e/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]
